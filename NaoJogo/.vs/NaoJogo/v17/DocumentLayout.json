@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GitHub\\NaoJogoAPI\\NaoJogo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7322181B-6118-4958-8742-3C5E1AD56EFA}|NaoJogo\\NaoJogo.csproj|d:\\github\\naojogoapi\\naojogo\\naojogo\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7322181B-6118-4958-8742-3C5E1AD56EFA}|NaoJogo\\NaoJogo.csproj|solutionrelative:naojogo\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\GitHub\\NaoJogoAPI\\NaoJogo\\NaoJogo\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "NaoJogo\\Controllers\\PostsController.cs",
+              "ToolTip": "D:\\GitHub\\NaoJogoAPI\\NaoJogo\\NaoJogo\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "NaoJogo\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T21:28:09.308Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
